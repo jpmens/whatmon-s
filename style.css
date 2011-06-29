@@ -1,0 +1,29 @@
+body {
+        overflow: hidden;
+        margin: 8px;
+        padding: 0px;
+}
+
+#xwhatmoninfo a {
+        position: relative;
+        top: 20px;
+        left: 13px;
+}
+
+#xwhatmoninfo a:hover {
+        color: rgba(0, 0, 145, 0.796875);
+}
+
+#whatmonstatus {
+	color: red;
+	padding-right: 10px;
+}
+#whatmoninfo {
+	/*
+        width: 350px;
+        height: 29px;
+        overflow: hidden;
+        top: -22px;
+        overflow: hidden;
+	*/
+}
