@@ -1,0 +1,6 @@
+{
+    "status": 0,
+    "text": "text to be displayed in Safari extension bar",
+    "url": "http://optional.url.to.more.information/",
+    "tooltip": "This optional value becomes the URL title"
+}

@@ -64,10 +64,10 @@ function getFeed() {
 					var tab = safari.self.browserWindow.openTab();
 					tab.url = this.attr("href");
 				});
-				link.text(data.value);
+				link.text(data.text);
 				$("#whatmoninfo").append(link);
 			} else {
-				$("#whatmoninfo").html(data.value);
+				$("#whatmoninfo").html(data.text);
 			}
 		}
         });
